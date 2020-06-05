@@ -1,0 +1,10 @@
+
+node_modules
+.npm
+.Trash-*
+.sass-cache/
+*.css.map
+.settings/
+.vscode/
+img/
+package-lock.json
