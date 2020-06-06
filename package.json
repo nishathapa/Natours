@@ -1,10 +1,10 @@
 {
   "name": "natours",
-  "version": "1.0.0",   
+  "version": "1.0.0",
   "description": "landing pagr for natours",
   "main": "index.js",
   "scripts": {
-    "compile:sass" : "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "Nisha",
   "license": "ISC",
