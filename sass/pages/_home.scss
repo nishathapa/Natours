@@ -6,6 +6,10 @@
     @include respond(tab-port){
         padding: 20rem 0;
     }
+
+    @include respond(phone){
+        z-index : 2000;
+    }
 }
 
 .section-features{
@@ -96,7 +100,7 @@
             width: 65%;
         }
 
-        @include respond(tab-land) {
+        @include respond(tab-port) {
             width: 100%;
         }
     }
